@@ -27,3 +27,13 @@ we gaan eens checken hoe we [deze website](http://www.gatesnfences.com/) kunnen 
 * zorgen dat de code/functies werken!
 
 <hr/>
+
+### Aanbeveling voor toekomstige wijziging
+* verwijder de website
+
+### Lijst groepsleden
+* Raf
+* Andy
+* Mireille
+* Geert
+* Steve
